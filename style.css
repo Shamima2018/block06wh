@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    font-family: "Open Sans";
+}
+
+
+
+h2 {
+    background-color:green;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+section {
+    display: block;
+    background-color:hsl(from color h s l)
+}
+
+div {
+        width: 300px;
+        height: 100px;
+        padding: 50px;
+        border: 1px solid red;
+        box-sizing: border-box;
+}
